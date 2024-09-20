@@ -1,0 +1,12 @@
+ .navbar{
+      background-color: rgb(69, 5, 159);
+      padding: .5rem;
+      text-decoration:none ;
+    }
+.nav-item{
+      color:white;
+      font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+      margin-right:2rem ;
+      text-decoration:none ;
+    }
+  
